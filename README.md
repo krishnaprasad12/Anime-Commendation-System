@@ -1,4 +1,4 @@
-# Anime-Commendation-System
+# Trends on Anime
 ## Objective
 Data visualization for anime trends aims to present anime-related information in a way that is both aesthetically pleasing and simple to comprehend. Data visualization can assist in locating patterns, trends, and insights that may not be immediately apparent from raw data by using charts and graphs.
 
